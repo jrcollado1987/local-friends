@@ -5,7 +5,7 @@
 var appSettings = {
 
     everlive: {
-        apiKey: 'jwDSFpr8Vhty5Un6OqTQq1E5ybUUoT9H', // Put your Backend Services API key here
+        apiKey: 'Al95XtZ2oDPNpSR5', // Put your Backend Services API key here
         scheme: 'http'
     },
 
@@ -20,8 +20,8 @@ var appSettings = {
     },
 
     google: {
-        clientId: '1038123131142-rtddgq0nutel4h5jtb390mjn94v7o790.apps.googleusercontent.com', // Put your Google Client ID here
-        redirectUri: 'http://localseosearch.ca?wp-login.php' // Put your Google Redirect URI here
+        clientId: '318106095636.apps.googleusercontent.com', // Put your Google Client ID here
+        redirectUri: 'https://www.localseosearch.ca.com/oauth2callback' // Put your Google Redirect URI here
     },
 
     liveId: {
