@@ -10,17 +10,17 @@ var appSettings = {
     },
 
     eqatec: {
-        productKey: '$EQATEC_PRODUCT_KEY$',  // Put your EQATEC product key here
+        productKey: 'e409f06f532d48c495b12cc6d06f27ba',  // Put your EQATEC product key here
         version: '1.0.0.0' // Put your application version here
     },
 
     facebook: {
-        appId: '1408629486049918', // Put your Facebook App ID here
+        appId: '180949372090739', // Put your Facebook App ID here
         redirectUri: 'https://www.facebook.com/connect/login_success.html' // Put your Facebook Redirect URI here
     },
 
     google: {
-        clientId: '406987471724-q1sorfhhcbulk6r5r317l482u9f62ti8.apps.googleusercontent.com', // Put your Google Client ID here
+        clientId: '1038123131142.apps.googleusercontent.com', // Put your Google Client ID here
         redirectUri: 'http://localhost' // Put your Google Redirect URI here
     },
 
