@@ -21,7 +21,7 @@ var appSettings = {
 
     google: {
         clientId: '1038123131142-rtddgq0nutel4h5jtb390mjn94v7o790.apps.googleusercontent.com', // Put your Google Client ID here
-        redirectUri: 'http://www.localseosearch.ca' // Put your Google Redirect URI here
+        redirectUri: '' // Put your Google Redirect URI here
     },
 
     liveId: {
