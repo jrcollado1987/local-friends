@@ -84,5 +84,8 @@
   "WP8ProductID": "{ff81e52b-af0c-43e1-86f1-9d2d4753741b}",
   "WP8PublisherID": "{a87ec5b1-a2af-4f72-8cd7-7a7928827fc8}",
   "WP8Publisher": "",
-  "Framework": "Cordova"
+  "Framework": "Cordova",
+  "projectVersion": "1",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.localfriends"
 }
